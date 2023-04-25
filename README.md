@@ -3,8 +3,4 @@ I did not make these games
 
 #the code for making the games work on html is here:
 
-
-<script src="https://xxsibxx.github.io/ruffleembedsetup112/ruffle/ruffle.js"></script>
-<div class="swf"dir="ltr" style="text-align: left;" trbidi="on">
-        <embed height="680" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="https://godzilla212.github.io/gsiteswf/<put stuff here>" type="application/x-shockwave-flash" width="920"></embed>
-</div>
+https://docs.google.com/document/d/e/2PACX-1vQoCtwkJlTcdAKWoqxufiEZrYAvA8lLptBj7PQGpoeCCLMA4v3CdqCIoy8v5yY_Ks8L6Xp01OPMuE1U/pub 
